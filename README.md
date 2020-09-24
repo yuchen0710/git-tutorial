@@ -1,1 +1,1 @@
-Hello AI Course!
+Hello AI Course
